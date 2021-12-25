@@ -16,7 +16,7 @@ class Sadpanda:
 
         self.writefile() function:
 
-            Writes the contents of self.doujinlist into selected filename
+            Writes the contents of self.doujinlist into selected filename.
 
     '''
 
