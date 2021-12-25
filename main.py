@@ -6,6 +6,7 @@ class Sadpanda:
     '''
     Explanation on what it does because I'll proably forget
 
+
         self.scrapper_file() function:
 
             Assuming all .html files are in the same folder, program will
